@@ -18,33 +18,33 @@ This privacy policy applies to all information collected through our mobile appl
 
 **TABLE OF CONTENTS**
 
-[1. WHAT INFORMATION DO WE COLLECT?](https://app.termly.io/dashboard/website/463164/privacy-policy#infocollect)
+[1. WHAT INFORMATION DO WE COLLECT?](#_Toc44431774)
 
-[2. HOW DO WE USE YOUR INFORMATION?](https://app.termly.io/dashboard/website/463164/privacy-policy#infouse)
+[2. HOW DO WE USE YOUR INFORMATION?](#_Toc44431779)
 
-[3. WILL YOUR INFORMATION BE SHARED WITH ANYONE?](https://app.termly.io/dashboard/website/463164/privacy-policy#infoshare)
+[3. WILL YOUR INFORMATION BE SHARED WITH ANYONE?](#_Toc44431780)
 
-[4. WHO WILL YOUR INFORMATION BE SHARED WITH?](https://app.termly.io/dashboard/website/463164/privacy-policy#whoshare)
+[4. WHO WILL YOUR INFORMATION BE SHARED WITH?](#_Toc44431781)
 
-[5. HOW DO WE HANDLE YOUR SOCIAL LOGINS?](https://app.termly.io/dashboard/website/463164/privacy-policy#sociallogins)
+[5. HOW DO WE HANDLE YOUR SOCIAL LOGINS?](#_Toc44431782)
 
-[6. WHAT IS OUR STANCE ON THIRD-PARTY WEBSITES?](https://app.termly.io/dashboard/website/463164/privacy-policy#3pwebsites)
+[6. WHAT IS OUR STANCE ON THIRD-PARTY WEBSITES?](#_Toc44431783)
 
-[7. HOW LONG DO WE KEEP YOUR INFORMATION?](https://app.termly.io/dashboard/website/463164/privacy-policy#inforetain)
+[7. HOW LONG DO WE KEEP YOUR INFORMATION?](#_Toc44431784)
 
-[8. HOW DO WE KEEP YOUR INFORMATION SAFE?](https://app.termly.io/dashboard/website/463164/privacy-policy#infosafe)
+[8. HOW DO WE KEEP YOUR INFORMATION SAFE?](#_Toc44431785)
 
-[9. WHAT ARE YOUR PRIVACY RIGHTS?](https://app.termly.io/dashboard/website/463164/privacy-policy#privacyrights)
+[9. WHAT ARE YOUR PRIVACY RIGHTS?](#_Toc44431786)
 
-[10. DATA BREACH](https://app.termly.io/dashboard/website/463164/privacy-policy#databreach)
+[10. DATA BREACH](#_Toc44431787)
 
-[11. CONTROLS FOR DO-NOT-TRACK FEATURES](https://app.termly.io/dashboard/website/463164/privacy-policy#DNT)
+[11. CONTROLS FOR DO-NOT-TRACK FEATURES](#_Toc44431788)
 
-[12. DO CALIFORNIA RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?](https://app.termly.io/dashboard/website/463164/privacy-policy#caresidents)
+[12. DO CALIFORNIA RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?](#_Toc44431789)
 
-[13. DO WE MAKE UPDATES TO THIS POLICY?](https://app.termly.io/dashboard/website/463164/privacy-policy#policyupdates)
+[13. DO WE MAKE UPDATES TO THIS POLICY?](#_Toc44431790)
 
-[14. HOW CAN YOU CONTACT US ABOUT THIS POLICY?](https://app.termly.io/dashboard/website/463164/privacy-policy#contact)
+[14. HOW CAN YOU CONTACT US ABOUT THIS POLICY?](#_Toc44431791)
 
 **1. WHAT INFORMATION DO WE COLLECT?**
 
@@ -64,6 +64,7 @@ The personal information that we collect depends on the context of your interact
 
 All personal information that you provide to us must be true, complete and accurate, and you must notify us of any changes to such personal information.
 
+##
 **Information automatically collected**
 
 _ **In Short:  ** _ ** ** _Some information — such as IP address and/or browser and device characteristics — is collected automatically when you visit our Apps._
@@ -72,6 +73,7 @@ We automatically collect certain information when you visit, use or navigate the
 
 **Online Identifiers.** We collect devices; applications; cookie identifiers, or others such as the ones used for analytics and marketing; tools and protocols, such as IP (Internet Protocol) addresses; and other similar data.
 
+##
 **Information collected through our Apps**
 
 _ **In Short: ** _ ** ** _We may collect information regarding your mobile device, push notifications, when you use our apps._
@@ -84,6 +86,7 @@ If you use our Apps, we may also collect the following information:
 
  _Push Notifications._ We may request to send you push notifications regarding your account or the mobile application. If you wish to opt-out from receiving these types of communications, you may turn them off in your device&#39;s settings.
 
+##
 **Information collected from other sources**
 
 _ **In Short: ** _ ** ** _We may collect limited data from public databases, marketing partners, social media platforms, and other outside sources._
@@ -269,4 +272,4 @@ United States
 
 **HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?**
 
-Based on the laws of some countries, you may have the right to request access to the personal information we collect from you, change that information, or delete it in some circumstances. To request to review, update, or delete your personal information, please submit a request form by clicking [here](https://app.termly.io/notify/e2b3f52e-fbaf-41a4-b022-e00f4dcf16e0). We will try to respond to your request within 30 days.
+Based on the laws of some countries, you may have the right to request access to the personal information we collect from you, change that information, or delete it in some circumstances. To request to review, update, or delete your personal information, please submit a request form by clicking [here](mailto:peekiosapp@gmail.com). We will try to respond to your request within 30 days.
