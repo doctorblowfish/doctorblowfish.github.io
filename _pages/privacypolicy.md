@@ -20,33 +20,31 @@ This privacy policy applies to all information collected through our mobile appl
 
 <a href="https://peekthis.app/privacypolicy/#1-what-information-we-collect" target="_self">1. WHAT INFORMATION DO WE COLLECT</a>
 
-[2. HOW DO WE USE YOUR INFORMATION](#2-how-do-we-use-your-information)
-
 <a href="https://peekthis.app/privacypolicy/#2-how-do-we-use-your-information" target="_self">2. HOW DO WE USE YOUR INFORMATION</a>
 
-[3. WILL YOUR INFORMATION BE SHARED WITH ANYONE](#3-will-your-information-be-shared-with-anyone)
+<a href="https://peekthis.app/privacypolicy/#3-will-your-information-be-shared-with-anyone" target="_self">3. WILL YOUR INFORMATION BE SHARED WITH ANYONE</a>
 
-[4. WHO WILL YOUR INFORMATION BE SHARED WITH](#3-will-your-information-be-shared-with-anyone)
+<a href="https://peekthis.app/privacypolicy/#3-will-your-information-be-shared-with-anyone" target="_self">4. WHO WILL YOUR INFORMATION BE SHARED WITH</a>
 
-[5. HOW DO WE HANDLE YOUR SOCIAL LOGINS](#5-how-do-we-handle-your-social-logins)
+<a href="https://peekthis.app/privacypolicy/#5-how-do-we-handle-your-social-logins" target="_self">5. HOW DO WE HANDLE YOUR SOCIAL LOGINS
 
-[6. WHAT IS OUR STANCE ON THIRD-PARTY WEBSITES](#6-what-is-our-stance-on-third-party-websites)
+<a href="https://peekthis.app/privacypolicy/#6-what-is-our-stance-on-third-party-websites" target="_self">6. WHAT IS OUR STANCE ON THIRD-PARTY WEBSITES</a>
 
-[7. HOW LONG DO WE KEEP YOUR INFORMATION](#7-how-long-do-we-keep-your-information)
+<a href="https://peekthis.app/privacypolicy/#7-how-long-do-we-keep-your-information" target="_self">7. HOW LONG DO WE KEEP YOUR INFORMATION</a>
 
-[8. HOW DO WE KEEP YOUR INFORMATION SAFE](#8-how-do-we-keep-your-information-safe)
+<a href="https://peekthis.app/privacypolicy/#8-how-do-we-keep-your-information-safe" target="_self">8. HOW DO WE KEEP YOUR INFORMATION SAFE</a>
 
-[9. WHAT ARE YOUR PRIVACY RIGHTS](#9-what-are-your-privacy-rights)
+<a href="https://peekthis.app/privacypolicy/#9-what-are-your-privacy-rights" target="_self">9. WHAT ARE YOUR PRIVACY RIGHTS</a>
 
-[10. DATA BREACH](#10-data-breach)
+<a href="https://peekthis.app/privacypolicy/#10-data-breach" target="_self">10. DATA BREACH</a>
 
-[11. CONTROLS FOR DO-NOT-TRACK FEATURES](#11-controls-for-do-not-track-features)
+<a href="https://peekthis.app/privacypolicy/#11-controls-for-do-not-track-features" target="_self">11. CONTROLS FOR DO-NOT-TRACK FEATURES</a>
 
-[12. DO CALIFORNIA RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS](#12-do-california-residents-have-specific-privacy-rights)
+<a href="https://peekthis.app/privacypolicy/#12-do-california-residents-have-specific-privacy-rights" target="_self">12. DO CALIFORNIA RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS</a>
 
-[13. DO WE MAKE UPDATES TO THIS POLICY](#13-do-we-make-updates-to-this-policy)
+<a href="https://peekthis.app/privacypolicy/#13-do-we-make-updates-to-this-policy" target="_self">13. DO WE MAKE UPDATES TO THIS POLICY</a>
 
-[14. HOW CAN YOU CONTACT US ABOUT THIS POLICY](#14-how-can-you-contact-us-about-this-policy)
+<a href="https://peekthis.app/privacypolicy/#14-how-can-you-contact-us-about-this-policy" targets="_self">14. HOW CAN YOU CONTACT US ABOUT THIS POLICY</a>
 
 #### 1. WHAT INFORMATION WE COLLECT
 
