@@ -18,9 +18,11 @@ This privacy policy applies to all information collected through our mobile appl
 
 #### TABLE OF CONTENTS
 
-[1. WHAT INFORMATION DO WE COLLECT](#1-what-information-we-collect)
+<a href="https://peekthis.app/privacypolicy/#1-what-information-we-collect" target="_self">1. WHAT INFORMATION DO WE COLLECT</a>
 
 [2. HOW DO WE USE YOUR INFORMATION](#2-how-do-we-use-your-information)
+
+<a href="https://peekthis.app/privacypolicy/#2-how-do-we-use-your-information" target="_self">2. HOW DO WE USE YOUR INFORMATION</a>
 
 [3. WILL YOUR INFORMATION BE SHARED WITH ANYONE](#3-will-your-information-be-shared-with-anyone)
 
