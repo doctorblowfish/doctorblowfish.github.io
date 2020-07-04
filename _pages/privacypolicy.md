@@ -8,7 +8,7 @@ include_in_header: false
 
 #### Last updated June 06, 2020
 
-Thank you for choosing to be part of our community at Peek: TV Shows &amp; Movies ("**Company**", "**we**", "**us**", or "**our**"). We are committed to protecting your personal information and your right to privacy. If you have any questions or concerns about our policy, or our practices with regards to your personal information, please contact us at peekiosapp@gmail.com.
+Thank you for choosing to be part of our community at Peek: TV Shows &amp; Movies ("**Company**", "**we**", "**us**", or "**our**"). We are committed to protecting your personal information and your right to privacy. If you have any questions or concerns about our policy, or our practices with regards to your personal information, please contact us at [peekiosapp@gmail.com](mailto:peekiosapp@gmail.com){:target="_self"}.
 
 When you visit our mobile application, and use our services, you trust us with your personal information. We take your privacy very seriously. In this privacy policy, we seek to explain to you in the clearest way possible what information we collect, how we use it and what rights you have in relation to it. We hope you take some time to read through it carefully, as it is important. If there are any terms in this privacy policy that you do not agree with, please discontinue use of our Apps and our services.
 
@@ -18,35 +18,33 @@ This privacy policy applies to all information collected through our mobile appl
 
 #### TABLE OF CONTENTS
 
-<a href="https://peekthis.app/privacypolicy/#1-what-information-we-collect" target="_self">1. WHAT INFORMATION DO WE COLLECT</a>
+[1. WHAT INFORMATION DO WE COLLECT](#1-what-information-we-collect){:target="_self"}
 
-[WHAT INFORMATION DO WE COLLECT](#1-what-information-we-collect){:target="_self"}
+[2. HOW DO WE USE YOUR INFORMATION](#2-how-do-we-use-your-information){:target="_self"}
 
-<a href="https://peekthis.app/privacypolicy/#2-how-do-we-use-your-information" target="_self">2. HOW DO WE USE YOUR INFORMATION</a>
+[3. WILL YOUR INFORMATION BE SHARED WITH ANYONE](#3-will-your-information-be-shared-with-anyone){:target="_self"}
 
-<a href="https://peekthis.app/privacypolicy/#3-will-your-information-be-shared-with-anyone" target="_self">3. WILL YOUR INFORMATION BE SHARED WITH ANYONE</a>
+[4. WHO WILL YOUR INFORMATION BE SHARED WITH](#4-who-will-your-information-be-shared-with){:target="_self"}
 
-<a href="https://peekthis.app/privacypolicy/#4-who-will-your-information-be-shared-with" target="_self">4. WHO WILL YOUR INFORMATION BE SHARED WITH</a>
+[5. HOW DO WE HANDLE YOUR SOCIAL LOGINS](#5-how-do-we-handle-your-social-logins){:target="_self"}
 
-<a href="https://peekthis.app/privacypolicy/#5-how-do-we-handle-your-social-logins" target="_self">5. HOW DO WE HANDLE YOUR SOCIAL LOGINS
+[6. WHAT IS OUR STANCE ON THIRD-PARTY WEBSITES](#6-what-is-our-stance-on-third-party-websites){:target="_self"}
 
-<a href="https://peekthis.app/privacypolicy/#6-what-is-our-stance-on-third-party-websites" target="_self">6. WHAT IS OUR STANCE ON THIRD-PARTY WEBSITES</a>
+[7. HOW LONG DO WE KEEP YOUR INFORMATION](#7-how-long-do-we-keep-your-information){:target="_self"}
 
-<a href="https://peekthis.app/privacypolicy/#7-how-long-do-we-keep-your-information" target="_self">7. HOW LONG DO WE KEEP YOUR INFORMATION</a>
+[8. HOW DO WE KEEP YOUR INFORMATION SAFE](#8-how-do-we-keep-your-information-safe){:target="_self"}
 
-<a href="https://peekthis.app/privacypolicy/#8-how-do-we-keep-your-information-safe" target="_self">8. HOW DO WE KEEP YOUR INFORMATION SAFE</a>
+[9. WHAT ARE YOUR PRIVACY RIGHTS](#9-what-are-your-privacy-rights){:target="_self"}
 
-<a href="https://peekthis.app/privacypolicy/#9-what-are-your-privacy-rights" target="_self">9. WHAT ARE YOUR PRIVACY RIGHTS</a>
+[10. DATA BREACH](#10-data-breach){:target="_self"}
 
-<a href="https://peekthis.app/privacypolicy/#10-data-breach" target="_self">10. DATA BREACH</a>
+[11. CONTROLS FOR DO-NOT-TRACK FEATURES](#11-controls-for-do-not-track-features){:target="_self"}
 
-<a href="https://peekthis.app/privacypolicy/#11-controls-for-do-not-track-features" target="_self">11. CONTROLS FOR DO-NOT-TRACK FEATURES</a>
+[12. DO CALIFORNIA RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS](#12-do-california-residents-have-specific-privacy-rights){:target="_self"}
 
-<a href="https://peekthis.app/privacypolicy/#12-do-california-residents-have-specific-privacy-rights" target="_self">12. DO CALIFORNIA RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS</a>
+[13. DO WE MAKE UPDATES TO THIS POLICY](#13-do-we-make-updates-to-this-policy){:target="_self"}
 
-<a href="https://peekthis.app/privacypolicy/#13-do-we-make-updates-to-this-policy" target="_self">13. DO WE MAKE UPDATES TO THIS POLICY</a>
-
-<a href="https://peekthis.app/privacypolicy/#14-how-can-you-contact-us-about-this-policy" target="_self">14. HOW CAN YOU CONTACT US ABOUT THIS POLICY</a>
+[14. HOW CAN YOU CONTACT US ABOUT THIS POLICY](#14-how-can-you-contact-us-about-this-policy){:target="_self"}
 
 #### 1. WHAT INFORMATION WE COLLECT
 
@@ -62,7 +60,7 @@ The personal information that we collect depends on the context of your interact
 
 **Personal Information Provided by You.**  We collect app usage; data collected from surveys; and other similar data.
 
-**Social Media Login Data.**  We may provide you with the option to register using social media account details, like your Facebook, Twitter or other social media account. If you choose to register in this way, we will collect the Information described in the section called "[HOW DO WE HANDLE YOUR SOCIAL LOGINS](#5-how-do-we-handle-your-social-logins)" below.
+**Social Media Login Data.**  We may provide you with the option to register using social media account details, like your Facebook, Twitter or other social media account. If you choose to register in this way, we will collect the Information described in the section called "[HOW DO WE HANDLE YOUR SOCIAL LOGINS](#5-how-do-we-handle-your-social-logins){:target="_self"}" below.
 
 All personal information that you provide to us must be true, complete and accurate, and you must notify us of any changes to such personal information.
 
@@ -100,7 +98,7 @@ We use personal information collected via our Apps for a variety of business pur
 
 We use the information we collect or receive:
 
-- **To facilitate account creation and logon process.**  If you choose to link your account with us to a third party account (such as your Google or Facebook account), we use the information you allowed us to collect from those third parties to facilitate account creation and logon process for the performance of the contract. See the section below headed "[HOW DO WE HANDLE YOUR SOCIAL LOGINS](#5-how-do-we-handle-your-social-logins)" for further information.
+- **To facilitate account creation and logon process.**  If you choose to link your account with us to a third party account (such as your Google or Facebook account), we use the information you allowed us to collect from those third parties to facilitate account creation and logon process for the performance of the contract. See the section below headed "[HOW DO WE HANDLE YOUR SOCIAL LOGINS](#5-how-do-we-handle-your-social-logins){:target="_self"}" for further information.
 - **Deliver targeted advertising to you.** We may use your information to develop and display content and advertising (and work with third parties who do so) tailored to your interests and/or location and to measure its effectiveness.
 - **Request Feedback.**  We may use your information to request feedback and to contact you about your use of our Apps.
 - **To protect our Services.**  We may use your information as part of our efforts to keep our Apps safe and secure (for example, for fraud monitoring and prevention).
@@ -189,7 +187,7 @@ Our Apps offer you the ability to register and login using your third party soci
 
 We will use the information we receive only for the purposes that are described in this privacy policy or that are otherwise made clear to you on the Apps. Please note that we do not control, and are not responsible for, other uses of your personal information by your third party social media provider. We recommend that you review their privacy policy to understand how they collect, use and share your personal information, and how you can set your privacy preferences on their sites and apps.
 
-#### 6. WHAT IS OUR STANCE ON THIRD-PARTY WEBSITES
+#### 6. WHAT IS OUR STANCE ON THIRD-PARTY WEBSITES?**
 
 _**In Short:** We are not responsible for the safety of any information that you share with third-party providers who advertise, but are not affiliated with, our websites._
 
@@ -213,9 +211,9 @@ We have implemented appropriate technical and organizational security measures d
 
 _**In Short:** You may review, change, or terminate your account at any time._
 
-If you are resident in the European Economic Area and you believe we are unlawfully processing your personal information, you also have the right to complain to your local data protection supervisory authority. You can find their contact details here: [http://ec.europa.eu/justice/data-protection/bodies/authorities/index\_en.htm](http://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm).
+If you are resident in the European Economic Area and you believe we are unlawfully processing your personal information, you also have the right to complain to your local data protection supervisory authority. You can find their contact details here: [http://ec.europa.eu/justice/data-protection/bodies/authorities/index\_en.htm](http://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm){:target="_self"}.
 
-If you have questions or comments about your privacy rights, you may email us at [peekiosapp@gmail.com](mailto:peekiosapp@gmail.com).
+If you have questions or comments about your privacy rights, you may email us at [peekiosapp@gmail.com](mailto:peekiosapp@gmail.com){:target="_self"}.
 
 #### Account Information
 
@@ -255,7 +253,7 @@ We may update this privacy policy from time to time. The updated version will be
 
 #### 14. HOW CAN YOU CONTACT US ABOUT THIS POLICY
 
-If you have questions or comments about this policy, you may email us at peekiosapp@gmail.com or by post to:
+If you have questions or comments about this policy, you may email us at [peekiosapp@gmail.com](mailto:peekiosapp@gmail.com){:target="_self"} or by post to:
 
 Peek: TV Shows & Movies
 
@@ -267,4 +265,4 @@ United States
 
 #### HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU
 
-Based on the laws of some countries, you may have the right to request access to the personal information we collect from you, change that information, or delete it in some circumstances. To request to review, update, or delete your personal information, please submit a request form by clicking [here](mailto:peekiosapp@gmail.com). We will try to respond to your request within 30 days.
+Based on the laws of some countries, you may have the right to request access to the personal information we collect from you, change that information, or delete it in some circumstances. To request to review, update, or delete your personal information, please submit a request form by clicking [here](mailto:peekiosapp@gmail.com){:target="_self"}. We will try to respond to your request within 30 days.
