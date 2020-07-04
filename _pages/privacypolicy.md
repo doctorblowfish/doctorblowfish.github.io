@@ -24,7 +24,7 @@ This privacy policy applies to all information collected through our mobile appl
 
 <a href="https://peekthis.app/privacypolicy/#3-will-your-information-be-shared-with-anyone" target="_self">3. WILL YOUR INFORMATION BE SHARED WITH ANYONE</a>
 
-<a href="https://peekthis.app/privacypolicy/#3-will-your-information-be-shared-with-anyone" target="_self">4. WHO WILL YOUR INFORMATION BE SHARED WITH</a>
+<a href="https://peekthis.app/privacypolicy/#4-who-will-your-information-be-shared-with" target="_self">4. WHO WILL YOUR INFORMATION BE SHARED WITH</a>
 
 <a href="https://peekthis.app/privacypolicy/#5-how-do-we-handle-your-social-logins" target="_self">5. HOW DO WE HANDLE YOUR SOCIAL LOGINS
 
