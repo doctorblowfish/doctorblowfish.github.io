@@ -187,7 +187,7 @@ Our Apps offer you the ability to register and login using your third party soci
 
 We will use the information we receive only for the purposes that are described in this privacy policy or that are otherwise made clear to you on the Apps. Please note that we do not control, and are not responsible for, other uses of your personal information by your third party social media provider. We recommend that you review their privacy policy to understand how they collect, use and share your personal information, and how you can set your privacy preferences on their sites and apps.
 
-#### 6. WHAT IS OUR STANCE ON THIRD-PARTY WEBSITES?**
+#### 6. WHAT IS OUR STANCE ON THIRD-PARTY WEBSITES
 
 _**In Short:** We are not responsible for the safety of any information that you share with third-party providers who advertise, but are not affiliated with, our websites._
 
