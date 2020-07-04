@@ -44,7 +44,7 @@ This privacy policy applies to all information collected through our mobile appl
 
 <a href="https://peekthis.app/privacypolicy/#13-do-we-make-updates-to-this-policy" target="_self">13. DO WE MAKE UPDATES TO THIS POLICY</a>
 
-<a href="https://peekthis.app/privacypolicy/#14-how-can-you-contact-us-about-this-policy" targets="_self">14. HOW CAN YOU CONTACT US ABOUT THIS POLICY</a>
+<a href="https://peekthis.app/privacypolicy/#14-how-can-you-contact-us-about-this-policy" target="_self">14. HOW CAN YOU CONTACT US ABOUT THIS POLICY</a>
 
 #### 1. WHAT INFORMATION WE COLLECT
 
@@ -187,7 +187,7 @@ Our Apps offer you the ability to register and login using your third party soci
 
 We will use the information we receive only for the purposes that are described in this privacy policy or that are otherwise made clear to you on the Apps. Please note that we do not control, and are not responsible for, other uses of your personal information by your third party social media provider. We recommend that you review their privacy policy to understand how they collect, use and share your personal information, and how you can set your privacy preferences on their sites and apps.
 
-#### 6. WHAT IS OUR STANCE ON THIRD-PARTY WEBSITES?**
+#### 6. WHAT IS OUR STANCE ON THIRD-PARTY WEBSITES
 
 _**In Short:** We are not responsible for the safety of any information that you share with third-party providers who advertise, but are not affiliated with, our websites._
 
@@ -213,7 +213,7 @@ _**In Short:** You may review, change, or terminate your account at any time._
 
 If you are resident in the European Economic Area and you believe we are unlawfully processing your personal information, you also have the right to complain to your local data protection supervisory authority. You can find their contact details here: [http://ec.europa.eu/justice/data-protection/bodies/authorities/index\_en.htm](http://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm).
 
-If you have questions or comments about your privacy rights, you may email us at peekiosapp@gmail.com.
+If you have questions or comments about your privacy rights, you may email us at [peekiosapp@gmail.com](mailto:peekiosapp@gmail.com).
 
 #### Account Information
 
