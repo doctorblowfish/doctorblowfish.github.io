@@ -24,7 +24,7 @@ your_link                                 : https://peekthis.app
 your_city                                 : Washington                                
 email_address                             : peekmobileapp@gmail.com
 facebook_username                         :                                           
-instagram_username                        : https://instagram.com/peekthis.app
+instagram_username                        : peekthis.app
 twitter_username                          : peekmovie
 github_username                           : 
 youtube_username                          :
@@ -73,7 +73,7 @@ cover_image                               : # Replace with alternative image pat
 cover_overlay_color                       : "#82c0ff"
 cover_overlay_transparency                : 0.8
 
-device_color                              : black                  # Set to: blue, black, yellow, coral or white.
+device_color                              : yellow                  # Set to: blue, black, yellow, coral or white.
 
 body_background_color                     : "#ffffff"
 
